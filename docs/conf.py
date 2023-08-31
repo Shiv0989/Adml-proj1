@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Adml Proj1 documentation build configuration file, created by
+# AdvMl_Project documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Adml Proj1'
+project = u'AdvMl_Project'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'rep1doc'
+htmlhelp_basename = 'AdvMl_Projectdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -184,8 +184,8 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
     ('index',
-     'rep1.tex',
-     u'Adml Proj1 Documentation',
+     'AdvMl_Project.tex',
+     u'AdvMl_Project Documentation',
      u"Shivatmak Sharma", 'manual'),
 ]
 
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'rep1', u'Adml Proj1 Documentation',
+    ('index', 'AdvMl_Project', u'AdvMl_Project Documentation',
      [u"Shivatmak Sharma"], 1)
 ]
 
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'rep1', u'Adml Proj1 Documentation',
-     u"Shivatmak Sharma", 'Adml Proj1',
-     'NBA Draft Prediction Model', 'Miscellaneous'),
+    ('index', 'AdvMl_Project', u'AdvMl_Project Documentation',
+     u"Shivatmak Sharma", 'AdvMl_Project',
+     'The goal of this project is to predict whether a college basketball player will be selected into the NBA based on their season statistics. The results will be used by sports analysts and NBA teams to make informed decisions during the draft. Accurate results can help teams make better draft decisions, while incorrect results may lead to missed opportunities.', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

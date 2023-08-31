@@ -5,9 +5,9 @@
 #################################################################################
 
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-BUCKET = Objective:
-PROFILE = Develop a machine learning model that accurately predicts the probability of a player being drafted into the NBA.
-PROJECT_NAME = rep1
+BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
+PROFILE = default
+PROJECT_NAME = AdvMl_Project
 PYTHON_INTERPRETER = python3
 
 ifeq (,$(shell which conda))

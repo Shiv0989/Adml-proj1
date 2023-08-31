@@ -1,9 +1,9 @@
-.. Adml Proj1 documentation master file, created by
+.. AdvMl_Project documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Adml Proj1 documentation!
+AdvMl_Project documentation!
 ==============================================
 
 Contents:
