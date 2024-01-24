@@ -1,9 +1,9 @@
-NBA player prediction
+# NBA player prediction
 ==============================
 
 As a classification problem, the goal of this project is to predict whether a college basketball player will be selected into the NBA based on their season statistics. The results will be used by sports analysts and NBA teams to make informed decisions during the draft. Accurate results can help teams make better draft decisions, while incorrect results may lead to missed opportunities.
 
-Project Organization
+## Project Organization
 ------------
 
     ├── LICENSE
@@ -53,3 +53,7 @@ Project Organization
 
 
 --------
+
+## License
+
+This project is licensed under the MIT License.
